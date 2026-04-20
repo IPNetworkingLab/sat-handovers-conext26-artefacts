@@ -1,0 +1,217 @@
+version: draft-piraux-space-constellation-code-01
+shells:
+- code: D:7500:60:72/8/2
+  name: MEO Small
+  link_patterns:
+  - rank_offset: 1
+  - plane_offset: 1
+gateways:
+- name: gw1
+  latitude_deg: 62.6
+  longitude_deg: -150.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw2
+  latitude_deg: 21.7
+  longitude_deg: -158.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw3
+  latitude_deg: 34.5
+  longitude_deg: -119.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw4
+  latitude_deg: 68.7
+  longitude_deg: -133.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw5
+  latitude_deg: 62.6
+  longitude_deg: -114.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw6
+  latitude_deg: 26.6
+  longitude_deg: -105.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw7
+  latitude_deg: 27.1
+  longitude_deg: -81.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw8
+  latitude_deg: 41.7
+  longitude_deg: -73.5
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw9
+  latitude_deg: 10.7
+  longitude_deg: -85.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw10
+  latitude_deg: 3.5
+  longitude_deg: -76.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw11
+  latitude_deg: -18.1
+  longitude_deg: -70.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw12
+  latitude_deg: -33.1
+  longitude_deg: -71
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw13
+  latitude_deg: -22.4
+  longitude_deg: -43.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw14
+  latitude_deg: -6.2
+  longitude_deg: -39.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw15
+  latitude_deg: 14.9
+  longitude_deg: -17.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw16
+  latitude_deg: 5.7
+  longitude_deg: -0.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw17
+  latitude_deg: -8.9
+  longitude_deg: 13.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw18
+  latitude_deg: -26
+  longitude_deg: 27.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw19
+  latitude_deg: 39
+  longitude_deg: -9.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw20
+  latitude_deg: 37.9
+  longitude_deg: 13.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw21
+  latitude_deg: 42.6
+  longitude_deg: 25.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw22
+  latitude_deg: 66
+  longitude_deg: 21.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw23
+  latitude_deg: 78.5
+  longitude_deg: 15.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw24
+  latitude_deg: 64.4
+  longitude_deg: -51.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw25
+  latitude_deg: 28.7
+  longitude_deg: 36.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw26
+  latitude_deg: 23.7
+  longitude_deg: 72.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw27
+  latitude_deg: 11.3
+  longitude_deg: 78.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw28
+  latitude_deg: 15.4
+  longitude_deg: 105.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw29
+  latitude_deg: -5.7
+  longitude_deg: 106.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw30
+  latitude_deg: -12.5
+  longitude_deg: 130.8
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw31
+  latitude_deg: 34
+  longitude_deg: 131.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw32
+  latitude_deg: 37
+  longitude_deg: 140.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw33
+  latitude_deg: -27.5
+  longitude_deg: 151.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw34
+  latitude_deg: -31.8
+  longitude_deg: 116
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw35
+  latitude_deg: -18.3
+  longitude_deg: 178.2
+  altitude_m: 0
+  min_elevation_deg: 10
