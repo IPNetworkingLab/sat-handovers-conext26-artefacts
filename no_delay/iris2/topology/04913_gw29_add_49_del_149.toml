@@ -1,0 +1,3569 @@
+[infrastructure.nodes.a]
+cores = [[0]]
+
+[topology.defaults]
+
+[topology.nodes.r4_2]
+rid = "0.0.0.90"
+
+[topology.nodes.r3_9]
+rid = "0.0.0.75"
+
+[topology.nodes.r0_18]
+rid = "0.0.0.18"
+
+[topology.nodes.r7_10]
+rid = "0.0.0.164"
+
+[topology.nodes.r9_8]
+rid = "0.0.0.206"
+
+[topology.nodes.r3_20]
+rid = "0.0.0.86"
+
+[topology.nodes.r1_20]
+rid = "0.0.0.42"
+
+[topology.nodes.r11_14]
+rid = "0.0.1.0"
+
+[topology.nodes.r10_10]
+rid = "0.0.0.230"
+
+[topology.nodes.r10_13]
+rid = "0.0.0.233"
+
+[topology.nodes.r8_16]
+rid = "0.0.0.192"
+
+[topology.nodes.r10_15]
+rid = "0.0.0.235"
+
+[topology.nodes.r7_6]
+rid = "0.0.0.160"
+
+[topology.nodes.r2_8]
+rid = "0.0.0.52"
+
+[topology.nodes.r2_16]
+rid = "0.0.0.60"
+
+[topology.nodes.r4_0]
+rid = "0.0.0.88"
+
+[topology.nodes.r7_1]
+rid = "0.0.0.155"
+
+[topology.nodes.r10_19]
+rid = "0.0.0.239"
+
+[topology.nodes.r7_11]
+rid = "0.0.0.165"
+
+[topology.nodes.r0_16]
+rid = "0.0.0.16"
+
+[topology.nodes.r10_2]
+rid = "0.0.0.222"
+
+[topology.nodes.r2_5]
+rid = "0.0.0.49"
+
+[topology.nodes.r10_5]
+rid = "0.0.0.225"
+
+[topology.nodes.r2_6]
+rid = "0.0.0.50"
+
+[topology.nodes.r5_7]
+rid = "0.0.0.117"
+
+[topology.nodes.r10_16]
+rid = "0.0.0.236"
+
+[topology.nodes.r11_8]
+rid = "0.0.0.250"
+
+[topology.nodes.r3_5]
+rid = "0.0.0.71"
+
+[topology.nodes.r0_14]
+rid = "0.0.0.14"
+
+[topology.nodes.r4_14]
+rid = "0.0.0.102"
+
+[topology.nodes.r2_9]
+rid = "0.0.0.53"
+
+[topology.nodes.r11_0]
+rid = "0.0.0.242"
+
+[topology.nodes.r5_0]
+rid = "0.0.0.110"
+
+[topology.nodes.r5_18]
+rid = "0.0.0.128"
+
+[topology.nodes.r7_8]
+rid = "0.0.0.162"
+
+[topology.nodes.r8_7]
+rid = "0.0.0.183"
+
+[topology.nodes.r9_3]
+rid = "0.0.0.201"
+
+[topology.nodes.r10_21]
+rid = "0.0.0.241"
+
+[topology.nodes.r9_5]
+rid = "0.0.0.203"
+
+[topology.nodes.r6_3]
+rid = "0.0.0.135"
+
+[topology.nodes.r9_14]
+rid = "0.0.0.212"
+
+[topology.nodes.r8_17]
+rid = "0.0.0.193"
+
+[topology.nodes.r9_7]
+rid = "0.0.0.205"
+
+[topology.nodes.r10_9]
+rid = "0.0.0.229"
+
+[topology.nodes.r0_11]
+rid = "0.0.0.11"
+
+[topology.nodes.r6_9]
+rid = "0.0.0.141"
+
+[topology.nodes.r3_11]
+rid = "0.0.0.77"
+
+[topology.nodes.r2_11]
+rid = "0.0.0.55"
+
+[topology.nodes.r5_14]
+rid = "0.0.0.124"
+
+[topology.nodes.r1_7]
+rid = "0.0.0.29"
+
+[topology.nodes.r6_10]
+rid = "0.0.0.142"
+
+[topology.nodes.r7_2]
+rid = "0.0.0.156"
+
+[topology.nodes.r1_16]
+rid = "0.0.0.38"
+
+[topology.nodes.r3_6]
+rid = "0.0.0.72"
+
+[topology.nodes.r5_3]
+rid = "0.0.0.113"
+
+[topology.nodes.r10_20]
+rid = "0.0.0.240"
+
+[topology.nodes.r4_6]
+rid = "0.0.0.94"
+
+[topology.nodes.r2_15]
+rid = "0.0.0.59"
+
+[topology.nodes.r11_12]
+rid = "0.0.0.254"
+
+[topology.nodes.r3_8]
+rid = "0.0.0.74"
+
+[topology.nodes.r4_9]
+rid = "0.0.0.97"
+
+[topology.nodes.r0_12]
+rid = "0.0.0.12"
+
+[topology.nodes.r4_12]
+rid = "0.0.0.100"
+
+[topology.nodes.r6_5]
+rid = "0.0.0.137"
+
+[topology.nodes.r10_3]
+rid = "0.0.0.223"
+
+[topology.nodes.r6_16]
+rid = "0.0.0.148"
+
+[topology.nodes.r10_0]
+rid = "0.0.0.220"
+
+[topology.nodes.r3_12]
+rid = "0.0.0.78"
+
+[topology.nodes.r4_5]
+rid = "0.0.0.93"
+
+[topology.nodes.r9_1]
+rid = "0.0.0.199"
+
+[topology.nodes.r3_16]
+rid = "0.0.0.82"
+
+[topology.nodes.r8_20]
+rid = "0.0.0.196"
+
+[topology.nodes.r4_10]
+rid = "0.0.0.98"
+
+[topology.nodes.r0_4]
+rid = "0.0.0.4"
+
+[topology.nodes.r3_17]
+rid = "0.0.0.83"
+
+[topology.nodes.r11_17]
+rid = "0.0.1.3"
+
+[topology.nodes.r6_0]
+rid = "0.0.0.132"
+
+[topology.nodes.r7_9]
+rid = "0.0.0.163"
+
+[topology.nodes.r0_20]
+rid = "0.0.0.20"
+
+[topology.nodes.r6_7]
+rid = "0.0.0.139"
+
+[topology.nodes.r9_13]
+rid = "0.0.0.211"
+
+[topology.nodes.r11_7]
+rid = "0.0.0.249"
+
+[topology.nodes.r11_16]
+rid = "0.0.1.2"
+
+[topology.nodes.r7_19]
+rid = "0.0.0.173"
+
+[topology.nodes.r0_3]
+rid = "0.0.0.3"
+
+[topology.nodes.r2_19]
+rid = "0.0.0.63"
+
+[topology.nodes.r3_15]
+rid = "0.0.0.81"
+
+[topology.nodes.r7_12]
+rid = "0.0.0.166"
+
+[topology.nodes.r9_21]
+rid = "0.0.0.219"
+
+[topology.nodes.r9_11]
+rid = "0.0.0.209"
+
+[topology.nodes.r11_18]
+rid = "0.0.1.4"
+
+[topology.nodes.r8_0]
+rid = "0.0.0.176"
+
+[topology.nodes.r10_14]
+rid = "0.0.0.234"
+
+[topology.nodes.r11_21]
+rid = "0.0.1.7"
+
+[topology.nodes.r2_2]
+rid = "0.0.0.46"
+
+[topology.nodes.r4_8]
+rid = "0.0.0.96"
+
+[topology.nodes.r3_3]
+rid = "0.0.0.69"
+
+[topology.nodes.r0_2]
+rid = "0.0.0.2"
+
+[topology.nodes.r6_18]
+rid = "0.0.0.150"
+
+[topology.nodes.r0_13]
+rid = "0.0.0.13"
+
+[topology.nodes.r7_0]
+rid = "0.0.0.154"
+
+[topology.nodes.r1_3]
+rid = "0.0.0.25"
+
+[topology.nodes.r9_0]
+rid = "0.0.0.198"
+
+[topology.nodes.r9_18]
+rid = "0.0.0.216"
+
+[topology.nodes.r11_20]
+rid = "0.0.1.6"
+
+[topology.nodes.r9_4]
+rid = "0.0.0.202"
+
+[topology.nodes.r11_5]
+rid = "0.0.0.247"
+
+[topology.nodes.r1_1]
+rid = "0.0.0.23"
+
+[topology.nodes.r6_8]
+rid = "0.0.0.140"
+
+[topology.nodes.r6_15]
+rid = "0.0.0.147"
+
+[topology.nodes.r6_19]
+rid = "0.0.0.151"
+
+[topology.nodes.r6_11]
+rid = "0.0.0.143"
+
+[topology.nodes.r5_1]
+rid = "0.0.0.111"
+
+[topology.nodes.r3_10]
+rid = "0.0.0.76"
+
+[topology.nodes.r10_8]
+rid = "0.0.0.228"
+
+[topology.nodes.r6_4]
+rid = "0.0.0.136"
+
+[topology.nodes.r2_20]
+rid = "0.0.0.64"
+
+[topology.nodes.r5_9]
+rid = "0.0.0.119"
+
+[topology.nodes.r7_14]
+rid = "0.0.0.168"
+
+[topology.nodes.r4_21]
+rid = "0.0.0.109"
+
+[topology.nodes.r8_1]
+rid = "0.0.0.177"
+
+[topology.nodes.r10_6]
+rid = "0.0.0.226"
+
+[topology.nodes.r2_1]
+rid = "0.0.0.45"
+
+[topology.nodes.r11_15]
+rid = "0.0.1.1"
+
+[topology.nodes.r5_11]
+rid = "0.0.0.121"
+
+[topology.nodes.r6_2]
+rid = "0.0.0.134"
+
+[topology.nodes.r5_17]
+rid = "0.0.0.127"
+
+[topology.nodes.r4_7]
+rid = "0.0.0.95"
+
+[topology.nodes.r4_19]
+rid = "0.0.0.107"
+
+[topology.nodes.r10_12]
+rid = "0.0.0.232"
+
+[topology.nodes.r0_0]
+rid = "0.0.0.0"
+
+[topology.nodes.r6_12]
+rid = "0.0.0.144"
+
+[topology.nodes.r7_7]
+rid = "0.0.0.161"
+
+[topology.nodes.r7_18]
+rid = "0.0.0.172"
+
+[topology.nodes.r8_9]
+rid = "0.0.0.185"
+
+[topology.nodes.r4_18]
+rid = "0.0.0.106"
+
+[topology.nodes.r4_11]
+rid = "0.0.0.99"
+
+[topology.nodes.gw29]
+rid = "0.0.255.255"
+
+[topology.nodes.r9_12]
+rid = "0.0.0.210"
+
+[topology.nodes.r7_16]
+rid = "0.0.0.170"
+
+[topology.nodes.r0_6]
+rid = "0.0.0.6"
+
+[topology.nodes.r5_20]
+rid = "0.0.0.130"
+
+[topology.nodes.r1_2]
+rid = "0.0.0.24"
+
+[topology.nodes.r5_19]
+rid = "0.0.0.129"
+
+[topology.nodes.r2_4]
+rid = "0.0.0.48"
+
+[topology.nodes.r7_5]
+rid = "0.0.0.159"
+
+[topology.nodes.r9_6]
+rid = "0.0.0.204"
+
+[topology.nodes.r9_15]
+rid = "0.0.0.213"
+
+[topology.nodes.r8_18]
+rid = "0.0.0.194"
+
+[topology.nodes.r9_19]
+rid = "0.0.0.217"
+
+[topology.nodes.r0_21]
+rid = "0.0.0.21"
+
+[topology.nodes.r1_6]
+rid = "0.0.0.28"
+
+[topology.nodes.r0_5]
+rid = "0.0.0.5"
+
+[topology.nodes.r3_2]
+rid = "0.0.0.68"
+
+[topology.nodes.r3_14]
+rid = "0.0.0.80"
+
+[topology.nodes.r5_6]
+rid = "0.0.0.116"
+
+[topology.nodes.r8_3]
+rid = "0.0.0.179"
+
+[topology.nodes.r1_12]
+rid = "0.0.0.34"
+
+[topology.nodes.r2_14]
+rid = "0.0.0.58"
+
+[topology.nodes.r3_4]
+rid = "0.0.0.70"
+
+[topology.nodes.r2_0]
+rid = "0.0.0.44"
+
+[topology.nodes.r7_20]
+rid = "0.0.0.174"
+
+[topology.nodes.r4_15]
+rid = "0.0.0.103"
+
+[topology.nodes.r10_11]
+rid = "0.0.0.231"
+
+[topology.nodes.r5_12]
+rid = "0.0.0.122"
+
+[topology.nodes.r4_4]
+rid = "0.0.0.92"
+
+[topology.nodes.r1_11]
+rid = "0.0.0.33"
+
+[topology.nodes.r5_21]
+rid = "0.0.0.131"
+
+[topology.nodes.r8_12]
+rid = "0.0.0.188"
+
+[topology.nodes.r1_9]
+rid = "0.0.0.31"
+
+[topology.nodes.r0_9]
+rid = "0.0.0.9"
+
+[topology.nodes.r11_6]
+rid = "0.0.0.248"
+
+[topology.nodes.r9_17]
+rid = "0.0.0.215"
+
+[topology.nodes.r3_21]
+rid = "0.0.0.87"
+
+[topology.nodes.r8_2]
+rid = "0.0.0.178"
+
+[topology.nodes.r5_13]
+rid = "0.0.0.123"
+
+[topology.nodes.r1_14]
+rid = "0.0.0.36"
+
+[topology.nodes.r3_13]
+rid = "0.0.0.79"
+
+[topology.nodes.r4_3]
+rid = "0.0.0.91"
+
+[topology.nodes.r0_10]
+rid = "0.0.0.10"
+
+[topology.nodes.r1_17]
+rid = "0.0.0.39"
+
+[topology.nodes.r7_3]
+rid = "0.0.0.157"
+
+[topology.nodes.r11_2]
+rid = "0.0.0.244"
+
+[topology.nodes.r1_10]
+rid = "0.0.0.32"
+
+[topology.nodes.r4_13]
+rid = "0.0.0.101"
+
+[topology.nodes.r11_13]
+rid = "0.0.0.255"
+
+[topology.nodes.r1_13]
+rid = "0.0.0.35"
+
+[topology.nodes.r1_21]
+rid = "0.0.0.43"
+
+[topology.nodes.r2_18]
+rid = "0.0.0.62"
+
+[topology.nodes.r10_17]
+rid = "0.0.0.237"
+
+[topology.nodes.r8_14]
+rid = "0.0.0.190"
+
+[topology.nodes.r1_0]
+rid = "0.0.0.22"
+
+[topology.nodes.r3_18]
+rid = "0.0.0.84"
+
+[topology.nodes.r0_15]
+rid = "0.0.0.15"
+
+[topology.nodes.r7_4]
+rid = "0.0.0.158"
+
+[topology.nodes.r8_4]
+rid = "0.0.0.180"
+
+[topology.nodes.r0_17]
+rid = "0.0.0.17"
+
+[topology.nodes.r2_7]
+rid = "0.0.0.51"
+
+[topology.nodes.r5_10]
+rid = "0.0.0.120"
+
+[topology.nodes.r11_9]
+rid = "0.0.0.251"
+
+[topology.nodes.r1_4]
+rid = "0.0.0.26"
+
+[topology.nodes.r5_4]
+rid = "0.0.0.114"
+
+[topology.nodes.r7_13]
+rid = "0.0.0.167"
+
+[topology.nodes.r6_13]
+rid = "0.0.0.145"
+
+[topology.nodes.r5_15]
+rid = "0.0.0.125"
+
+[topology.nodes.r4_17]
+rid = "0.0.0.105"
+
+[topology.nodes.r11_4]
+rid = "0.0.0.246"
+
+[topology.nodes.r8_11]
+rid = "0.0.0.187"
+
+[topology.nodes.r1_5]
+rid = "0.0.0.27"
+
+[topology.nodes.r0_7]
+rid = "0.0.0.7"
+
+[topology.nodes.r0_1]
+rid = "0.0.0.1"
+
+[topology.nodes.r5_2]
+rid = "0.0.0.112"
+
+[topology.nodes.r10_1]
+rid = "0.0.0.221"
+
+[topology.nodes.r3_0]
+rid = "0.0.0.66"
+
+[topology.nodes.r11_1]
+rid = "0.0.0.243"
+
+[topology.nodes.r11_3]
+rid = "0.0.0.245"
+
+[topology.nodes.r0_8]
+rid = "0.0.0.8"
+
+[topology.nodes.r5_5]
+rid = "0.0.0.115"
+
+[topology.nodes.r5_8]
+rid = "0.0.0.118"
+
+[topology.nodes.r9_16]
+rid = "0.0.0.214"
+
+[topology.nodes.r4_16]
+rid = "0.0.0.104"
+
+[topology.nodes.r3_1]
+rid = "0.0.0.67"
+
+[topology.nodes.r8_10]
+rid = "0.0.0.186"
+
+[topology.nodes.r9_9]
+rid = "0.0.0.207"
+
+[topology.nodes.r1_18]
+rid = "0.0.0.40"
+
+[topology.nodes.r10_4]
+rid = "0.0.0.224"
+
+[topology.nodes.r10_18]
+rid = "0.0.0.238"
+
+[topology.nodes.r11_11]
+rid = "0.0.0.253"
+
+[topology.nodes.r11_19]
+rid = "0.0.1.5"
+
+[topology.nodes.r6_1]
+rid = "0.0.0.133"
+
+[topology.nodes.r2_3]
+rid = "0.0.0.47"
+
+[topology.nodes.r5_16]
+rid = "0.0.0.126"
+
+[topology.nodes.r6_14]
+rid = "0.0.0.146"
+
+[topology.nodes.r9_2]
+rid = "0.0.0.200"
+
+[topology.nodes.r2_10]
+rid = "0.0.0.54"
+
+[topology.nodes.r2_21]
+rid = "0.0.0.65"
+
+[topology.nodes.r6_20]
+rid = "0.0.0.152"
+
+[topology.nodes.r8_5]
+rid = "0.0.0.181"
+
+[topology.nodes.r1_8]
+rid = "0.0.0.30"
+
+[topology.nodes.r8_13]
+rid = "0.0.0.189"
+
+[topology.nodes.r2_12]
+rid = "0.0.0.56"
+
+[topology.nodes.r1_19]
+rid = "0.0.0.41"
+
+[topology.nodes.r9_20]
+rid = "0.0.0.218"
+
+[topology.nodes.r1_15]
+rid = "0.0.0.37"
+
+[topology.nodes.r8_21]
+rid = "0.0.0.197"
+
+[topology.nodes.r7_15]
+rid = "0.0.0.169"
+
+[topology.nodes.r2_17]
+rid = "0.0.0.61"
+
+[topology.nodes.r6_6]
+rid = "0.0.0.138"
+
+[topology.nodes.r8_8]
+rid = "0.0.0.184"
+
+[topology.nodes.r7_17]
+rid = "0.0.0.171"
+
+[topology.nodes.r8_6]
+rid = "0.0.0.182"
+
+[topology.nodes.r3_7]
+rid = "0.0.0.73"
+
+[topology.nodes.r8_19]
+rid = "0.0.0.195"
+
+[topology.nodes.r6_17]
+rid = "0.0.0.149"
+
+[topology.nodes.r0_19]
+rid = "0.0.0.19"
+
+[topology.nodes.r4_1]
+rid = "0.0.0.89"
+
+[topology.nodes.r2_13]
+rid = "0.0.0.57"
+
+[topology.nodes.r4_20]
+rid = "0.0.0.108"
+
+[topology.nodes.r3_19]
+rid = "0.0.0.85"
+
+[topology.nodes.r6_21]
+rid = "0.0.0.153"
+
+[topology.nodes.r7_21]
+rid = "0.0.0.175"
+
+[topology.nodes.r8_15]
+rid = "0.0.0.191"
+
+[topology.nodes.r9_10]
+rid = "0.0.0.208"
+
+[topology.nodes.r10_7]
+rid = "0.0.0.227"
+
+[topology.nodes.r11_10]
+rid = "0.0.0.252"
+
+[[topology.links]]
+endpoints = ["r0_0:eth0", "r0_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_1:eth1", "r0_2:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_2:eth1", "r0_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_3:eth1", "r0_4:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_4:eth1", "r0_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_5:eth1", "r0_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_6:eth1", "r0_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_7:eth1", "r0_8:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_8:eth1", "r0_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_9:eth1", "r0_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_10:eth1", "r0_11:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_11:eth1", "r0_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_12:eth1", "r0_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_13:eth1", "r0_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_14:eth1", "r0_15:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_15:eth1", "r0_16:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_16:eth1", "r0_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_17:eth1", "r0_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_18:eth1", "r0_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_19:eth1", "r0_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r0_20:eth1", "r0_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r0_21:eth1", "r0_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_0:eth0", "r1_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_1:eth1", "r1_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_2:eth1", "r1_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_3:eth1", "r1_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_4:eth1", "r1_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_5:eth1", "r1_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_6:eth1", "r1_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_7:eth1", "r1_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_8:eth1", "r1_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_9:eth1", "r1_10:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_10:eth1", "r1_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_11:eth1", "r1_12:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_12:eth1", "r1_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_13:eth1", "r1_14:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_14:eth1", "r1_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_15:eth1", "r1_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_16:eth1", "r1_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_17:eth1", "r1_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r1_18:eth1", "r1_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_19:eth1", "r1_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_20:eth1", "r1_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r1_21:eth1", "r1_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_0:eth0", "r2_1:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_1:eth1", "r2_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_2:eth1", "r2_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_3:eth1", "r2_4:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_4:eth1", "r2_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_5:eth1", "r2_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_6:eth1", "r2_7:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_7:eth1", "r2_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_8:eth1", "r2_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_9:eth1", "r2_10:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_10:eth1", "r2_11:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_11:eth1", "r2_12:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_12:eth1", "r2_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_13:eth1", "r2_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_14:eth1", "r2_15:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_15:eth1", "r2_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_16:eth1", "r2_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_17:eth1", "r2_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_18:eth1", "r2_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r2_19:eth1", "r2_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_20:eth1", "r2_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r2_21:eth1", "r2_0:eth1"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_0:eth0", "r3_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r3_1:eth1", "r3_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_2:eth1", "r3_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_3:eth1", "r3_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_4:eth1", "r3_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_5:eth1", "r3_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r3_6:eth1", "r3_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_7:eth1", "r3_8:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_8:eth1", "r3_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_9:eth1", "r3_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_10:eth1", "r3_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r3_11:eth1", "r3_12:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r3_12:eth1", "r3_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_13:eth1", "r3_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r3_14:eth1", "r3_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_15:eth1", "r3_16:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_16:eth1", "r3_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_17:eth1", "r3_18:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_18:eth1", "r3_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_19:eth1", "r3_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_20:eth1", "r3_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r3_21:eth1", "r3_0:eth1"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_0:eth0", "r4_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_1:eth1", "r4_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_2:eth1", "r4_3:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_3:eth1", "r4_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_4:eth1", "r4_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_5:eth1", "r4_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_6:eth1", "r4_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_7:eth1", "r4_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_8:eth1", "r4_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_9:eth1", "r4_10:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_10:eth1", "r4_11:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_11:eth1", "r4_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_12:eth1", "r4_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_13:eth1", "r4_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_14:eth1", "r4_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_15:eth1", "r4_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_16:eth1", "r4_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_17:eth1", "r4_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_18:eth1", "r4_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r4_19:eth1", "r4_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_20:eth1", "r4_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r4_21:eth1", "r4_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_0:eth0", "r5_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_1:eth1", "r5_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_2:eth1", "r5_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_3:eth1", "r5_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_4:eth1", "r5_5:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_5:eth1", "r5_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_6:eth1", "r5_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_7:eth1", "r5_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_8:eth1", "r5_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_9:eth1", "r5_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_10:eth1", "r5_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_11:eth1", "r5_12:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_12:eth1", "r5_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_13:eth1", "r5_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_14:eth1", "r5_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_15:eth1", "r5_16:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_16:eth1", "r5_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_17:eth1", "r5_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_18:eth1", "r5_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_19:eth1", "r5_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r5_20:eth1", "r5_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r5_21:eth1", "r5_0:eth1"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_0:eth0", "r6_1:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_1:eth1", "r6_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_2:eth1", "r6_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_3:eth1", "r6_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_4:eth1", "r6_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_5:eth1", "r6_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_6:eth1", "r6_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_7:eth1", "r6_8:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_8:eth1", "r6_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_9:eth1", "r6_10:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_10:eth1", "r6_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_11:eth1", "r6_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_12:eth1", "r6_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_13:eth1", "r6_14:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_14:eth1", "r6_15:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_15:eth1", "r6_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_16:eth1", "r6_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_17:eth1", "r6_18:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_18:eth1", "r6_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_19:eth1", "r6_20:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r6_20:eth1", "r6_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r6_21:eth1", "r6_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_0:eth0", "r7_1:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_1:eth1", "r7_2:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_2:eth1", "r7_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_3:eth1", "r7_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_4:eth1", "r7_5:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_5:eth1", "r7_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_6:eth1", "r7_7:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_7:eth1", "r7_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_8:eth1", "r7_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_9:eth1", "r7_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_10:eth1", "r7_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_11:eth1", "r7_12:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_12:eth1", "r7_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_13:eth1", "r7_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_14:eth1", "r7_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_15:eth1", "r7_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_16:eth1", "r7_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_17:eth1", "r7_18:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_18:eth1", "r7_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_19:eth1", "r7_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r7_20:eth1", "r7_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r7_21:eth1", "r7_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_0:eth0", "r8_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_1:eth1", "r8_2:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_2:eth1", "r8_3:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_3:eth1", "r8_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_4:eth1", "r8_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_5:eth1", "r8_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_6:eth1", "r8_7:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_7:eth1", "r8_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_8:eth1", "r8_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_9:eth1", "r8_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_10:eth1", "r8_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_11:eth1", "r8_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_12:eth1", "r8_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_13:eth1", "r8_14:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_14:eth1", "r8_15:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_15:eth1", "r8_16:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_16:eth1", "r8_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_17:eth1", "r8_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_18:eth1", "r8_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r8_19:eth1", "r8_20:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_20:eth1", "r8_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r8_21:eth1", "r8_0:eth1"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_0:eth0", "r9_1:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_1:eth1", "r9_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_2:eth1", "r9_3:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_3:eth1", "r9_4:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_4:eth1", "r9_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_5:eth1", "r9_6:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_6:eth1", "r9_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_7:eth1", "r9_8:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_8:eth1", "r9_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_9:eth1", "r9_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_10:eth1", "r9_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_11:eth1", "r9_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_12:eth1", "r9_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_13:eth1", "r9_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_14:eth1", "r9_15:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_15:eth1", "r9_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_16:eth1", "r9_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_17:eth1", "r9_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_18:eth1", "r9_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_19:eth1", "r9_20:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_20:eth1", "r9_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r9_21:eth1", "r9_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_0:eth0", "r10_1:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_1:eth1", "r10_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_2:eth1", "r10_3:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_3:eth1", "r10_4:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_4:eth1", "r10_5:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_5:eth1", "r10_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_6:eth1", "r10_7:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_7:eth1", "r10_8:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_8:eth1", "r10_9:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_9:eth1", "r10_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_10:eth1", "r10_11:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_11:eth1", "r10_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_12:eth1", "r10_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_13:eth1", "r10_14:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_14:eth1", "r10_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_15:eth1", "r10_16:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_16:eth1", "r10_17:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_17:eth1", "r10_18:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_18:eth1", "r10_19:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r10_19:eth1", "r10_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_20:eth1", "r10_21:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r10_21:eth1", "r10_0:eth1"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_0:eth0", "r11_1:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_1:eth1", "r11_2:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_2:eth1", "r11_3:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_3:eth1", "r11_4:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_4:eth1", "r11_5:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_5:eth1", "r11_6:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_6:eth1", "r11_7:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_7:eth1", "r11_8:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_8:eth1", "r11_9:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_9:eth1", "r11_10:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_10:eth1", "r11_11:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_11:eth1", "r11_12:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_12:eth1", "r11_13:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_13:eth1", "r11_14:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_14:eth1", "r11_15:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_15:eth1", "r11_16:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_16:eth1", "r11_17:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_17:eth1", "r11_18:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_18:eth1", "r11_19:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_19:eth1", "r11_20:eth0"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r11_20:eth1", "r11_21:eth0"]
+metric = 719
+latency = 7.1948530577630345
+
+[[topology.links]]
+endpoints = ["r11_21:eth1", "r11_0:eth1"]
+latency = 7.1948530577630345
+metric = 719
+
+[[topology.links]]
+endpoints = ["r9_2:eth2", "r10_2:eth2"]
+metric = 1108
+latency = 11.089719888598799
+
+[[topology.links]]
+endpoints = ["r11_18:eth2", "r10_18:eth2"]
+metric = 1167
+latency = 11.670831324019758
+
+[[topology.links]]
+endpoints = ["r10_20:eth2", "r11_20:eth2"]
+metric = 880
+latency = 8.807359188766382
+
+[[topology.links]]
+endpoints = ["r9_9:eth2", "r10_9:eth2"]
+latency = 8.90530184100866
+metric = 890
+
+[[topology.links]]
+endpoints = ["r7_3:eth2", "r6_3:eth2"]
+latency = 12.11733768586615
+metric = 1211
+
+[[topology.links]]
+endpoints = ["r6_19:eth2", "r5_19:eth2"]
+metric = 1082
+latency = 10.82597210157221
+
+[[topology.links]]
+endpoints = ["r0_10:eth2", "r1_10:eth2"]
+metric = 862
+latency = 8.62619002752349
+
+[[topology.links]]
+endpoints = ["r3_16:eth2", "r4_16:eth2"]
+metric = 1340
+latency = 13.40530410148887
+
+[[topology.links]]
+endpoints = ["r9_21:eth2", "r8_21:eth2"]
+metric = 814
+latency = 8.147807342626384
+
+[[topology.links]]
+endpoints = ["r5_4:eth2", "r6_4:eth2"]
+latency = 13.027118958132137
+metric = 1302
+
+[[topology.links]]
+endpoints = ["r8_3:eth2", "r7_3:eth3"]
+latency = 12.21825429190518
+metric = 1221
+
+[[topology.links]]
+endpoints = ["r0_0:eth2", "r1_0:eth2"]
+metric = 808
+latency = 8.085731183259991
+
+[[topology.links]]
+endpoints = ["r6_13:eth2", "r7_13:eth2"]
+latency = 10.714725177402796
+metric = 1071
+
+[[topology.links]]
+endpoints = ["r2_6:eth2", "r3_6:eth2"]
+latency = 13.269880283314091
+metric = 1326
+
+[[topology.links]]
+endpoints = ["r10_9:eth3", "r11_9:eth2"]
+latency = 8.807359188766382
+metric = 880
+
+[[topology.links]]
+endpoints = ["r1_2:eth2", "r2_2:eth2"]
+metric = 1008
+latency = 10.080733228833171
+
+[[topology.links]]
+endpoints = ["r7_15:eth2", "r8_15:eth2"]
+metric = 1313
+latency = 13.13957292882102
+
+[[topology.links]]
+endpoints = ["r5_20:eth2", "r6_20:eth2"]
+latency = 9.3373932111232
+metric = 933
+
+[[topology.links]]
+endpoints = ["r2_12:eth2", "r3_12:eth2"]
+metric = 881
+latency = 8.818605907162116
+
+[[topology.links]]
+endpoints = ["r8_8:eth2", "r9_8:eth2"]
+metric = 1044
+latency = 10.446202199063254
+
+[[topology.links]]
+endpoints = ["r4_19:eth2", "r5_19:eth3"]
+metric = 1095
+latency = 10.95117162186157
+
+[[topology.links]]
+endpoints = ["r6_18:eth2", "r7_18:eth2"]
+latency = 12.105295012035494
+metric = 1210
+
+[[topology.links]]
+endpoints = ["r9_6:eth2", "r10_6:eth2"]
+metric = 1288
+latency = 12.88909169225516
+
+[[topology.links]]
+endpoints = ["r6_11:eth2", "r5_11:eth2"]
+latency = 8.187555484332218
+metric = 818
+
+[[topology.links]]
+endpoints = ["r11_9:eth3", "r0_10:eth3"]
+latency = 8.714198824015764
+metric = 871
+
+[[topology.links]]
+endpoints = ["r0_21:eth2", "r1_21:eth2"]
+metric = 862
+latency = 8.62619002752349
+
+[[topology.links]]
+endpoints = ["r2_4:eth2", "r1_4:eth2"]
+metric = 1275
+latency = 12.750586295762082
+
+[[topology.links]]
+endpoints = ["r2_6:eth3", "r1_6:eth2"]
+latency = 13.306100390196328
+metric = 1330
+
+[[topology.links]]
+endpoints = ["r3_17:eth2", "r2_17:eth2"]
+latency = 13.269880283314075
+metric = 1326
+
+[[topology.links]]
+endpoints = ["r5_5:eth2", "r6_5:eth2"]
+metric = 1342
+latency = 13.424105454848815
+
+[[topology.links]]
+endpoints = ["r3_10:eth2", "r2_10:eth2"]
+latency = 8.467062353233397
+metric = 846
+
+[[topology.links]]
+endpoints = ["r10_12:eth2", "r11_12:eth2"]
+latency = 9.707685481188507
+metric = 970
+
+[[topology.links]]
+endpoints = ["r0_0:eth3", "r3_21:eth2"]
+latency = 16.918204095463203
+metric = 1691
+
+[[topology.links]]
+endpoints = ["r10_11:eth2", "r9_11:eth2"]
+latency = 8.404559546865412
+metric = 840
+
+[[topology.links]]
+endpoints = ["r10_16:eth2", "r11_16:eth2"]
+latency = 13.386397386183873
+metric = 1338
+
+[[topology.links]]
+endpoints = ["r3_8:eth2", "r4_8:eth2"]
+metric = 1107
+latency = 11.075251793355289
+
+[[topology.links]]
+endpoints = ["r11_19:eth2", "r10_19:eth2"]
+latency = 10.192272603427304
+metric = 1019
+
+[[topology.links]]
+endpoints = ["r5_3:eth2", "r4_3:eth2"]
+latency = 11.906328933438225
+metric = 1190
+
+[[topology.links]]
+endpoints = ["r11_4:eth2", "r10_4:eth2"]
+latency = 13.274370391052615
+metric = 1327
+
+[[topology.links]]
+endpoints = ["r7_11:eth2", "r6_11:eth3"]
+metric = 823
+latency = 8.231102426748796
+
+[[topology.links]]
+endpoints = ["r8_5:eth2", "r9_5:eth2"]
+latency = 13.415986550999012
+metric = 1341
+
+[[topology.links]]
+endpoints = ["r8_17:eth2", "r7_17:eth2"]
+metric = 1301
+latency = 13.019977451781282
+
+[[topology.links]]
+endpoints = ["r5_7:eth2", "r6_7:eth2"]
+latency = 12.206584363191107
+metric = 1220
+
+[[topology.links]]
+endpoints = ["r3_0:eth2", "r2_0:eth2"]
+metric = 810
+latency = 8.102739929012726
+
+[[topology.links]]
+endpoints = ["r7_2:eth2", "r6_2:eth2"]
+latency = 10.714725177402805
+metric = 1071
+
+[[topology.links]]
+endpoints = ["r9_14:eth2", "r8_14:eth2"]
+metric = 1231
+latency = 12.315910578622962
+
+[[topology.links]]
+endpoints = ["r8_13:eth2", "r9_13:eth2"]
+metric = 1096
+latency = 10.965786865774142
+
+[[topology.links]]
+endpoints = ["r10_11:eth3", "r11_11:eth2"]
+latency = 8.475735438864803
+metric = 847
+
+[[topology.links]]
+endpoints = ["r5_5:eth3", "r4_5:eth2"]
+metric = 1341
+latency = 13.417122574395684
+
+[[topology.links]]
+endpoints = ["r3_6:eth3", "r4_6:eth2"]
+metric = 1322
+latency = 13.22900103246638
+
+[[topology.links]]
+endpoints = ["r11_2:eth2", "r10_2:eth3"]
+metric = 1121
+latency = 11.212266925217996
+
+[[topology.links]]
+endpoints = ["r11_16:eth3", "r0_17:eth2"]
+metric = 1336
+latency = 13.364393913858764
+
+[[topology.links]]
+endpoints = ["r10_14:eth2", "r9_14:eth3"]
+metric = 1241
+latency = 12.410164841417998
+
+[[topology.links]]
+endpoints = ["r6_1:eth2", "r7_1:eth2"]
+latency = 9.237201330320952
+metric = 923
+
+[[topology.links]]
+endpoints = ["r2_11:eth2", "r1_11:eth2"]
+metric = 809
+latency = 8.090225029863852
+
+[[topology.links]]
+endpoints = ["r2_5:eth2", "r1_5:eth2"]
+latency = 13.367222187892272
+metric = 1336
+
+[[topology.links]]
+endpoints = ["r5_12:eth2", "r4_12:eth2"]
+metric = 901
+latency = 9.01992816711872
+
+[[topology.links]]
+endpoints = ["r0_11:eth2", "r1_11:eth3"]
+latency = 8.08573118326
+metric = 808
+
+[[topology.links]]
+endpoints = ["r3_9:eth2", "r2_9:eth2"]
+latency = 9.69337073020352
+metric = 969
+
+[[topology.links]]
+endpoints = ["r10_1:eth2", "r9_1:eth2"]
+latency = 9.586483997048102
+metric = 958
+
+[[topology.links]]
+endpoints = ["r3_15:eth2", "r2_15:eth2"]
+latency = 12.82596130071169
+metric = 1282
+
+[[topology.links]]
+endpoints = ["r7_10:eth2", "r6_10:eth2"]
+latency = 8.22561242563699
+metric = 822
+
+[[topology.links]]
+endpoints = ["r3_9:eth3", "r4_9:eth2"]
+latency = 9.572402942972879
+metric = 957
+
+[[topology.links]]
+endpoints = ["r9_7:eth2", "r8_7:eth2"]
+metric = 1189
+latency = 11.893595804381011
+
+[[topology.links]]
+endpoints = ["r2_12:eth3", "r1_12:eth2"]
+latency = 8.724865422968424
+metric = 872
+
+[[topology.links]]
+endpoints = ["r6_12:eth2", "r7_12:eth2"]
+metric = 923
+latency = 9.237201330320932
+
+[[topology.links]]
+endpoints = ["r4_4:eth2", "r3_4:eth2"]
+metric = 1289
+latency = 12.897235696626248
+
+[[topology.links]]
+endpoints = ["r3_14:eth2", "r4_14:eth2"]
+latency = 11.796559391398995
+metric = 1179
+
+[[topology.links]]
+endpoints = ["r9_3:eth2", "r10_3:eth2"]
+metric = 1241
+latency = 12.410164841417998
+
+[[topology.links]]
+endpoints = ["r2_18:eth2", "r1_18:eth2"]
+latency = 12.57792121694988
+metric = 1257
+
+[[topology.links]]
+endpoints = ["r7_9:eth2", "r8_9:eth2"]
+latency = 9.114035253833912
+metric = 911
+
+[[topology.links]]
+endpoints = ["r6_14:eth2", "r5_14:eth2"]
+metric = 1201
+latency = 12.013310145854806
+
+[[topology.links]]
+endpoints = ["r0_16:eth2", "r1_16:eth2"]
+metric = 1334
+latency = 13.34100407454438
+
+[[topology.links]]
+endpoints = ["r10_10:eth2", "r9_10:eth2"]
+latency = 8.120400940865451
+metric = 812
+
+[[topology.links]]
+endpoints = ["r2_16:eth2", "r1_16:eth3"]
+latency = 13.367222187892272
+metric = 1336
+
+[[topology.links]]
+endpoints = ["r5_6:eth2", "r6_6:eth2"]
+latency = 13.133470001912068
+metric = 1313
+
+[[topology.links]]
+endpoints = ["r9_17:eth2", "r10_17:eth2"]
+latency = 12.889091692255164
+metric = 1288
+
+[[topology.links]]
+endpoints = ["r8_12:eth2", "r7_12:eth3"]
+latency = 9.350881635118975
+metric = 935
+
+[[topology.links]]
+endpoints = ["r3_1:eth2", "r4_1:eth2"]
+latency = 8.917084996928216
+metric = 891
+
+[[topology.links]]
+endpoints = ["r2_14:eth2", "r1_14:eth2"]
+metric = 1156
+latency = 11.569358385564025
+
+[[topology.links]]
+endpoints = ["r8_15:eth3", "r9_15:eth2"]
+metric = 1318
+latency = 13.18908429726119
+
+[[topology.links]]
+endpoints = ["r6_15:eth2", "r7_15:eth3"]
+latency = 13.085562085858504
+metric = 1308
+
+[[topology.links]]
+endpoints = ["r3_5:eth2", "r2_5:eth3"]
+latency = 13.388664048412252
+metric = 1338
+
+[[topology.links]]
+endpoints = ["r0_2:eth2", "r3_1:eth3"]
+metric = 2095
+latency = 20.954222375967202
+
+[[topology.links]]
+endpoints = ["r6_18:eth3", "r5_18:eth2"]
+latency = 12.206584363191102
+metric = 1220
+
+[[topology.links]]
+endpoints = ["r7_20:eth2", "r8_20:eth2"]
+latency = 9.114035253833919
+metric = 911
+
+[[topology.links]]
+endpoints = ["r5_0:eth2", "r6_0:eth2"]
+latency = 8.187555484332213
+metric = 818
+
+[[topology.links]]
+endpoints = ["r6_5:eth3", "r7_5:eth2"]
+metric = 1342
+latency = 13.426244475871147
+
+[[topology.links]]
+endpoints = ["r7_4:eth2", "r8_4:eth2"]
+metric = 1313
+latency = 13.13957292882102
+
+[[topology.links]]
+endpoints = ["r8_5:eth3", "r7_5:eth3"]
+latency = 13.423537106886819
+metric = 1342
+
+[[topology.links]]
+endpoints = ["r7_10:eth3", "r8_10:eth2"]
+latency = 8.182937154428332
+metric = 818
+
+[[topology.links]]
+endpoints = ["r3_18:eth2", "r2_18:eth3"]
+metric = 1249
+latency = 12.490430350069923
+
+[[topology.links]]
+endpoints = ["r3_4:eth3", "r2_4:eth3"]
+latency = 12.825961300711683
+metric = 1282
+
+[[topology.links]]
+endpoints = ["r1_2:eth3", "r0_2:eth3"]
+metric = 995
+latency = 9.955145512014983
+
+[[topology.links]]
+endpoints = ["r1_21:eth3", "r2_21:eth2"]
+metric = 854
+latency = 8.543694326343664
+
+[[topology.links]]
+endpoints = ["r11_5:eth2", "r0_6:eth2"]
+latency = 13.364393913858763
+metric = 1336
+
+[[topology.links]]
+endpoints = ["r0_14:eth2", "r3_13:eth2"]
+metric = 2576
+latency = 25.760705033472018
+
+[[topology.links]]
+endpoints = ["r4_4:eth3", "r5_4:eth3"]
+latency = 12.964316935876562
+metric = 1296
+
+[[topology.links]]
+endpoints = ["r11_3:eth2", "r10_3:eth3"]
+metric = 1250
+latency = 12.50088287102459
+
+[[topology.links]]
+endpoints = ["r11_1:eth2", "r0_2:eth4"]
+metric = 983
+latency = 9.830686022760656
+
+[[topology.links]]
+endpoints = ["r4_21:eth2", "r5_21:eth2"]
+metric = 833
+latency = 8.332717456805327
+
+[[topology.links]]
+endpoints = ["r10_0:eth2", "r11_0:eth2"]
+latency = 8.475735438864806
+metric = 847
+
+[[topology.links]]
+endpoints = ["r6_6:eth3", "r7_6:eth2"]
+metric = 1307
+latency = 13.078935726764076
+
+[[topology.links]]
+endpoints = ["r4_14:eth3", "r5_14:eth3"]
+latency = 11.906328933438234
+metric = 1190
+
+[[topology.links]]
+endpoints = ["r4_5:eth3", "r3_5:eth3"]
+latency = 13.405304101488875
+metric = 1340
+
+[[topology.links]]
+endpoints = ["r5_12:eth3", "r6_12:eth3"]
+metric = 912
+latency = 9.126758964781851
+
+[[topology.links]]
+endpoints = ["r4_13:eth2", "r3_13:eth3"]
+metric = 1033
+latency = 10.334020076804219
+
+[[topology.links]]
+endpoints = ["r2_1:eth2", "r1_1:eth2"]
+metric = 872
+latency = 8.724865422968435
+
+[[topology.links]]
+endpoints = ["r5_15:eth2", "r6_15:eth3"]
+latency = 13.027118958132133
+metric = 1302
+
+[[topology.links]]
+endpoints = ["r1_10:eth3", "r2_10:eth3"]
+latency = 8.543694326343646
+metric = 854
+
+[[topology.links]]
+endpoints = ["r3_10:eth3", "r4_10:eth2"]
+latency = 8.39663050550805
+metric = 839
+
+[[topology.links]]
+endpoints = ["r7_21:eth2", "r8_21:eth3"]
+latency = 8.182937154428336
+metric = 818
+
+[[topology.links]]
+endpoints = ["r3_8:eth3", "r2_8:eth2"]
+metric = 1119
+latency = 11.197973383975276
+
+[[topology.links]]
+endpoints = ["r11_18:eth3", "r0_19:eth2"]
+metric = 1155
+latency = 11.555741591371554
+
+[[topology.links]]
+endpoints = ["r11_13:eth2", "r10_13:eth2"]
+metric = 1121
+latency = 11.212266925218003
+
+[[topology.links]]
+endpoints = ["r7_6:eth3", "r8_6:eth2"]
+metric = 1301
+latency = 13.01997745178126
+
+[[topology.links]]
+endpoints = ["r4_10:eth3", "r5_10:eth2"]
+metric = 833
+latency = 8.332717456805304
+
+[[topology.links]]
+endpoints = ["r1_18:eth3", "r0_18:eth2"]
+metric = 1266
+latency = 12.661642905915489
+
+[[topology.links]]
+endpoints = ["r2_0:eth3", "r1_0:eth3"]
+metric = 809
+latency = 8.090225029863864
+
+[[topology.links]]
+endpoints = ["r0_21:eth3", "r3_20:eth2"]
+latency = 20.160265770664278
+metric = 2016
+
+[[topology.links]]
+endpoints = ["r7_14:eth2", "r6_14:eth3"]
+latency = 12.117337685866133
+metric = 1211
+
+[[topology.links]]
+endpoints = ["r0_3:eth2", "r1_3:eth2"]
+latency = 11.452299973271227
+metric = 1145
+
+[[topology.links]]
+endpoints = ["r4_11:eth2", "r3_11:eth2"]
+metric = 812
+latency = 8.123210551446363
+
+[[topology.links]]
+endpoints = ["r8_3:eth3", "r9_3:eth3"]
+latency = 12.315910578622974
+metric = 1231
+
+[[topology.links]]
+endpoints = ["r7_16:eth2", "r8_16:eth2"]
+latency = 13.423537106886819
+metric = 1342
+
+[[topology.links]]
+endpoints = ["r8_16:eth3", "r9_16:eth2"]
+latency = 13.415986550998998
+metric = 1341
+
+[[topology.links]]
+endpoints = ["r7_0:eth2", "r6_0:eth3"]
+latency = 8.231102426748786
+metric = 823
+
+[[topology.links]]
+endpoints = ["r6_8:eth2", "r7_8:eth2"]
+latency = 10.699902561052369
+metric = 1069
+
+[[topology.links]]
+endpoints = ["r11_15:eth2", "r0_16:eth3"]
+latency = 13.310041072742047
+metric = 1331
+
+[[topology.links]]
+endpoints = ["r2_17:eth3", "r1_17:eth2"]
+latency = 13.306100390196335
+metric = 1330
+
+[[topology.links]]
+endpoints = ["r4_7:eth2", "r3_7:eth2"]
+latency = 12.39929086956766
+metric = 1239
+
+[[topology.links]]
+endpoints = ["r0_17:eth3", "r1_17:eth3"]
+latency = 13.337617565898839
+metric = 1333
+
+[[topology.links]]
+endpoints = ["r10_20:eth3", "r9_20:eth2"]
+latency = 8.905301841008681
+metric = 890
+
+[[topology.links]]
+endpoints = ["r3_0:eth3", "r4_0:eth2"]
+metric = 812
+latency = 8.123210551446356
+
+[[topology.links]]
+endpoints = ["r10_5:eth2", "r11_5:eth3"]
+metric = 1338
+latency = 13.386397386183878
+
+[[topology.links]]
+endpoints = ["r10_6:eth3", "r11_6:eth2"]
+metric = 1281
+latency = 12.817331444330412
+
+[[topology.links]]
+endpoints = ["r8_12:eth3", "r9_12:eth2"]
+metric = 946
+latency = 9.467430441458514
+
+[[topology.links]]
+endpoints = ["r4_0:eth3", "r5_0:eth3"]
+metric = 815
+latency = 8.151530807950895
+
+[[topology.links]]
+endpoints = ["r4_17:eth2", "r3_17:eth3"]
+metric = 1322
+latency = 13.229001032466382
+
+[[topology.links]]
+endpoints = ["r8_17:eth3", "r9_17:eth3"]
+latency = 12.956669299938486
+metric = 1295
+
+[[topology.links]]
+endpoints = ["r9_12:eth3", "r10_12:eth3"]
+latency = 9.586483997048092
+metric = 958
+
+[[topology.links]]
+endpoints = ["r0_13:eth2", "r3_12:eth3"]
+latency = 20.954222375967202
+metric = 2095
+
+[[topology.links]]
+endpoints = ["r11_7:eth2", "r10_7:eth2"]
+metric = 1167
+latency = 11.670831324019755
+
+[[topology.links]]
+endpoints = ["r8_20:eth3", "r9_20:eth3"]
+latency = 9.007652646858073
+metric = 900
+
+[[topology.links]]
+endpoints = ["r5_13:eth2", "r4_13:eth3"]
+latency = 10.46110824435356
+metric = 1046
+
+[[topology.links]]
+endpoints = ["r1_4:eth3", "r0_4:eth2"]
+metric = 1267
+latency = 12.67120983054669
+
+[[topology.links]]
+endpoints = ["r1_5:eth3", "r0_5:eth2"]
+latency = 13.341004074544381
+metric = 1334
+
+[[topology.links]]
+endpoints = ["r0_3:eth3", "r3_2:eth2"]
+latency = 25.760705033472014
+metric = 2576
+
+[[topology.links]]
+endpoints = ["r6_9:eth2", "r5_9:eth2"]
+latency = 9.337393211123201
+metric = 933
+
+[[topology.links]]
+endpoints = ["r11_4:eth3", "r0_5:eth3"]
+latency = 13.310041072742061
+metric = 1331
+
+[[topology.links]]
+endpoints = ["r10_21:eth2", "r11_21:eth2"]
+metric = 810
+latency = 8.100858677785013
+
+[[topology.links]]
+endpoints = ["r5_11:eth3", "r4_11:eth3"]
+metric = 815
+latency = 8.15153080795088
+
+[[topology.links]]
+endpoints = ["r5_17:eth2", "r6_17:eth2"]
+latency = 13.133470001912082
+metric = 1313
+
+[[topology.links]]
+endpoints = ["r4_18:eth2", "r3_18:eth3"]
+metric = 1239
+latency = 12.39929086956766
+
+[[topology.links]]
+endpoints = ["r2_20:eth2", "r3_20:eth3"]
+latency = 9.693370730203522
+metric = 969
+
+[[topology.links]]
+endpoints = ["r3_12:eth4", "r4_12:eth3"]
+latency = 8.917084996928216
+metric = 891
+
+[[topology.links]]
+endpoints = ["r4_1:eth3", "r5_1:eth2"]
+latency = 9.019928167118735
+metric = 901
+
+[[topology.links]]
+endpoints = ["r5_16:eth2", "r6_16:eth2"]
+metric = 1342
+latency = 13.424105454848817
+
+[[topology.links]]
+endpoints = ["r1_1:eth3", "r0_1:eth2"]
+latency = 8.636233539511158
+metric = 863
+
+[[topology.links]]
+endpoints = ["r0_19:eth3", "r1_19:eth2"]
+latency = 11.438433191068338
+metric = 1143
+
+[[topology.links]]
+endpoints = ["r0_15:eth2", "r3_14:eth3"]
+latency = 30.01182877356553
+metric = 3001
+
+[[topology.links]]
+endpoints = ["r11_15:eth3", "r10_15:eth2"]
+metric = 1327
+latency = 13.274370391052633
+
+[[topology.links]]
+endpoints = ["r3_21:eth3", "r2_21:eth3"]
+latency = 8.467062353233352
+metric = 846
+
+[[topology.links]]
+endpoints = ["r9_15:eth3", "r10_15:eth3"]
+latency = 13.234035123414737
+metric = 1323
+
+[[topology.links]]
+endpoints = ["r7_7:eth2", "r8_7:eth3"]
+latency = 12.000912759573795
+metric = 1200
+
+[[topology.links]]
+endpoints = ["r2_13:eth2", "r1_13:eth2"]
+metric = 1008
+latency = 10.08073322883317
+
+[[topology.links]]
+endpoints = ["r7_1:eth3", "r8_1:eth2"]
+latency = 9.350881635118945
+metric = 935
+
+[[topology.links]]
+endpoints = ["r4_19:eth3", "r3_19:eth2"]
+metric = 1107
+latency = 11.075251793355283
+
+[[topology.links]]
+endpoints = ["r1_13:eth3", "r0_13:eth3"]
+latency = 9.955145512014992
+metric = 995
+
+[[topology.links]]
+endpoints = ["r7_19:eth2", "r8_19:eth2"]
+latency = 10.57322259484696
+metric = 1057
+
+[[topology.links]]
+endpoints = ["r11_10:eth2", "r10_10:eth3"]
+metric = 810
+latency = 8.100858677785013
+
+[[topology.links]]
+endpoints = ["r1_15:eth2", "r2_15:eth3"]
+metric = 1275
+latency = 12.750586295762082
+
+[[topology.links]]
+endpoints = ["r9_9:eth3", "r8_9:eth3"]
+metric = 900
+latency = 9.007652646858089
+
+[[topology.links]]
+endpoints = ["r9_8:eth3", "r10_8:eth2"]
+latency = 10.319121862784604
+metric = 1031
+
+[[topology.links]]
+endpoints = ["r5_1:eth3", "r6_1:eth3"]
+latency = 9.126758964781855
+metric = 912
+
+[[topology.links]]
+endpoints = ["r10_0:eth3", "r9_0:eth2"]
+latency = 8.404559546865418
+metric = 840
+
+[[topology.links]]
+endpoints = ["r1_9:eth2", "r0_9:eth2"]
+latency = 9.940483735738992
+metric = 994
+
+[[topology.links]]
+endpoints = ["r0_5:eth4", "r3_4:eth4"]
+latency = 32.78857996941182
+metric = 3278
+
+[[topology.links]]
+endpoints = ["r10_17:eth3", "r11_17:eth2"]
+metric = 1281
+latency = 12.81733144433041
+
+[[topology.links]]
+endpoints = ["r11_19:eth3", "r0_20:eth2"]
+latency = 10.065955932414223
+metric = 1006
+
+[[topology.links]]
+endpoints = ["r7_2:eth3", "r8_2:eth2"]
+latency = 10.84070591701623
+metric = 1084
+
+[[topology.links]]
+endpoints = ["r2_16:eth3", "r3_16:eth3"]
+latency = 13.388664048412242
+metric = 1338
+
+[[topology.links]]
+endpoints = ["r10_5:eth3", "r9_5:eth3"]
+latency = 13.403601748435902
+metric = 1340
+
+[[topology.links]]
+endpoints = ["r10_21:eth3", "r9_21:eth3"]
+latency = 8.120400940865474
+metric = 812
+
+[[topology.links]]
+endpoints = ["r6_20:eth3", "r7_20:eth3"]
+metric = 922
+latency = 9.22407344528763
+
+[[topology.links]]
+endpoints = ["r10_14:eth3", "r11_14:eth2"]
+metric = 1250
+latency = 12.5008828710246
+
+[[topology.links]]
+endpoints = ["r2_20:eth3", "r1_20:eth2"]
+metric = 981
+latency = 9.816178052182222
+
+[[topology.links]]
+endpoints = ["r0_7:eth2", "r1_7:eth2"]
+metric = 1266
+latency = 12.661642905915482
+
+[[topology.links]]
+endpoints = ["r9_18:eth2", "r8_18:eth2"]
+metric = 1189
+latency = 11.893595804381004
+
+[[topology.links]]
+endpoints = ["r3_2:eth3", "r2_2:eth3"]
+latency = 10.207128309951518
+metric = 1020
+
+[[topology.links]]
+endpoints = ["r11_13:eth3", "r0_14:eth3"]
+metric = 1133
+latency = 11.333199793076236
+
+[[topology.links]]
+endpoints = ["r4_20:eth2", "r3_20:eth4"]
+latency = 9.572402942972868
+metric = 957
+
+[[topology.links]]
+endpoints = ["r9_4:eth2", "r8_4:eth3"]
+metric = 1318
+latency = 13.189084297261191
+
+[[topology.links]]
+endpoints = ["r6_19:eth3", "r7_19:eth3"]
+latency = 10.699902561052385
+metric = 1069
+
+[[topology.links]]
+endpoints = ["r2_11:eth3", "r3_11:eth3"]
+metric = 810
+latency = 8.102739929012724
+
+[[topology.links]]
+endpoints = ["r8_14:eth3", "r7_14:eth3"]
+latency = 12.21825429190518
+metric = 1221
+
+[[topology.links]]
+endpoints = ["r9_2:eth3", "r8_2:eth3"]
+latency = 10.96578686577414
+metric = 1096
+
+[[topology.links]]
+endpoints = ["r7_17:eth3", "r6_17:eth3"]
+metric = 1307
+latency = 13.078935726764078
+
+[[topology.links]]
+endpoints = ["r8_0:eth2", "r9_0:eth3"]
+metric = 833
+latency = 8.339866111654038
+
+[[topology.links]]
+endpoints = ["r0_6:eth3", "r1_6:eth3"]
+metric = 1333
+latency = 13.337617565898828
+
+[[topology.links]]
+endpoints = ["r0_8:eth2", "r1_8:eth2"]
+metric = 1143
+latency = 11.43843319106834
+
+[[topology.links]]
+endpoints = ["r8_8:eth3", "r7_8:eth3"]
+metric = 1057
+latency = 10.573222594846968
+
+[[topology.links]]
+endpoints = ["r3_13:eth4", "r2_13:eth3"]
+metric = 1020
+latency = 10.207128309951525
+
+[[topology.links]]
+endpoints = ["r4_7:eth3", "r5_7:eth3"]
+latency = 12.30463051424647
+metric = 1230
+
+[[topology.links]]
+endpoints = ["r11_10:eth3", "r0_11:eth3"]
+latency = 8.0892819354317
+metric = 808
+
+[[topology.links]]
+endpoints = ["r0_20:eth3", "r3_19:eth3"]
+latency = 24.91707305273081
+metric = 2491
+
+[[topology.links]]
+endpoints = ["r8_11:eth2", "r9_11:eth3"]
+latency = 8.339866111654036
+metric = 833
+
+[[topology.links]]
+endpoints = ["r0_12:eth2", "r1_12:eth3"]
+metric = 863
+latency = 8.63623353951118
+
+[[topology.links]]
+endpoints = ["r9_7:eth3", "r10_7:eth3"]
+latency = 11.783510450880538
+metric = 1178
+
+[[topology.links]]
+endpoints = ["r0_15:eth3", "r1_15:eth3"]
+latency = 12.67120983054669
+metric = 1267
+
+[[topology.links]]
+endpoints = ["r0_8:eth3", "r3_7:eth3"]
+latency = 29.349959076119145
+metric = 2934
+
+[[topology.links]]
+endpoints = ["r0_7:eth3", "r3_6:eth4"]
+latency = 32.43052663001113
+metric = 3243
+
+[[topology.links]]
+endpoints = ["r2_1:eth3", "r3_1:eth4"]
+latency = 8.81860590716211
+metric = 881
+
+[[topology.links]]
+endpoints = ["r0_16:eth4", "r3_15:eth3"]
+latency = 32.78857996941182
+metric = 3278
+
+[[topology.links]]
+endpoints = ["r2_8:eth3", "r1_8:eth3"]
+metric = 1131
+latency = 11.319107063482178
+
+[[topology.links]]
+endpoints = ["r9_1:eth3", "r8_1:eth3"]
+latency = 9.467430441458509
+metric = 946
+
+[[topology.links]]
+endpoints = ["r11_20:eth3", "r0_21:eth4"]
+metric = 871
+latency = 8.71419882401576
+
+[[topology.links]]
+endpoints = ["r0_9:eth3", "r3_8:eth4"]
+latency = 24.917073052730785
+metric = 2491
+
+[[topology.links]]
+endpoints = ["r10_8:eth3", "r11_8:eth2"]
+latency = 10.192272603427314
+metric = 1019
+
+[[topology.links]]
+endpoints = ["r0_17:eth4", "r3_16:eth4"]
+latency = 33.6361781972973
+metric = 3363
+
+[[topology.links]]
+endpoints = ["r5_18:eth3", "r4_18:eth3"]
+latency = 12.304630514246476
+metric = 1230
+
+[[topology.links]]
+endpoints = ["r10_4:eth3", "r9_4:eth3"]
+metric = 1323
+latency = 13.234035123414738
+
+[[topology.links]]
+endpoints = ["r5_13:eth3", "r6_13:eth3"]
+latency = 10.588103029686161
+metric = 1058
+
+[[topology.links]]
+endpoints = ["r3_3:eth2", "r4_3:eth3"]
+metric = 1179
+latency = 11.796559391398974
+
+[[topology.links]]
+endpoints = ["r5_21:eth3", "r6_21:eth2"]
+latency = 8.275620589159645
+metric = 827
+
+[[topology.links]]
+endpoints = ["r11_17:eth3", "r0_18:eth3"]
+latency = 12.741481871924394
+metric = 1274
+
+[[topology.links]]
+endpoints = ["r7_7:eth3", "r6_7:eth3"]
+latency = 12.105295012035496
+metric = 1210
+
+[[topology.links]]
+endpoints = ["r5_3:eth3", "r6_3:eth3"]
+latency = 12.013310145854811
+metric = 1201
+
+[[topology.links]]
+endpoints = ["r5_6:eth3", "r4_6:eth3"]
+latency = 13.18351236447157
+metric = 1318
+
+[[topology.links]]
+endpoints = ["r0_10:eth4", "r3_9:eth4"]
+latency = 20.16026577066429
+metric = 2016
+
+[[topology.links]]
+endpoints = ["r8_0:eth3", "r7_0:eth3"]
+metric = 828
+latency = 8.28195519788777
+
+[[topology.links]]
+endpoints = ["r8_19:eth3", "r9_19:eth2"]
+latency = 10.446202199063233
+metric = 1044
+
+[[topology.links]]
+endpoints = ["r11_7:eth3", "r0_8:eth4"]
+metric = 1155
+latency = 11.55574159137155
+
+[[topology.links]]
+endpoints = ["r10_19:eth3", "r9_19:eth3"]
+latency = 10.319121862784622
+metric = 1031
+
+[[topology.links]]
+endpoints = ["r4_9:eth3", "r5_9:eth3"]
+metric = 945
+latency = 9.453624539758628
+
+[[topology.links]]
+endpoints = ["r0_19:eth4", "r3_18:eth4"]
+latency = 29.34995907611914
+metric = 2934
+
+[[topology.links]]
+endpoints = ["r4_15:eth2", "r3_15:eth4"]
+latency = 12.897235696626257
+metric = 1289
+
+[[topology.links]]
+endpoints = ["r8_18:eth3", "r7_18:eth3"]
+latency = 12.00091275957381
+metric = 1200
+
+[[topology.links]]
+endpoints = ["r7_11:eth3", "r8_11:eth3"]
+metric = 828
+latency = 8.281955197887772
+
+[[topology.links]]
+endpoints = ["r11_14:eth3", "r0_15:eth4"]
+latency = 12.587937778471662
+metric = 1258
+
+[[topology.links]]
+endpoints = ["r2_3:eth2", "r1_3:eth3"]
+metric = 1156
+latency = 11.569358385564037
+
+[[topology.links]]
+endpoints = ["r11_3:eth3", "r0_4:eth3"]
+metric = 1258
+latency = 12.58793777847166
+
+[[topology.links]]
+endpoints = ["r5_15:eth3", "r4_15:eth3"]
+latency = 12.964316935876555
+metric = 1296
+
+[[topology.links]]
+endpoints = ["r0_18:eth4", "r3_17:eth4"]
+latency = 32.43052663001112
+metric = 3243
+
+[[topology.links]]
+endpoints = ["r11_2:eth3", "r0_3:eth4"]
+latency = 11.333199793076249
+metric = 1133
+
+[[topology.links]]
+endpoints = ["r4_17:eth3", "r5_17:eth3"]
+metric = 1318
+latency = 13.183512364471571
+
+[[topology.links]]
+endpoints = ["r5_16:eth3", "r4_16:eth3"]
+metric = 1341
+latency = 13.417122574395695
+
+[[topology.links]]
+endpoints = ["r11_6:eth3", "r0_7:eth4"]
+latency = 12.741481871924387
+metric = 1274
+
+[[topology.links]]
+endpoints = ["r7_13:eth3", "r8_13:eth3"]
+latency = 10.840705917016244
+metric = 1084
+
+[[topology.links]]
+endpoints = ["r6_2:eth3", "r5_2:eth2"]
+metric = 1058
+latency = 10.588103029686161
+
+[[topology.links]]
+endpoints = ["r11_0:eth3", "r0_1:eth3"]
+metric = 855
+latency = 8.553072851477372
+
+[[topology.links]]
+endpoints = ["r10_16:eth3", "r9_16:eth3"]
+latency = 13.403601748435907
+metric = 1340
+
+[[topology.links]]
+endpoints = ["r5_10:eth3", "r6_10:eth3"]
+latency = 8.275620589159649
+metric = 827
+
+[[topology.links]]
+endpoints = ["r2_19:eth2", "r3_19:eth4"]
+latency = 11.197973383975247
+metric = 1119
+
+[[topology.links]]
+endpoints = ["r2_7:eth2", "r1_7:eth3"]
+metric = 1257
+latency = 12.57792121694988
+
+[[topology.links]]
+endpoints = ["r0_20:eth4", "r1_20:eth3"]
+metric = 994
+latency = 9.940483735738995
+
+[[topology.links]]
+endpoints = ["r10_1:eth3", "r11_1:eth3"]
+metric = 970
+latency = 9.707685481188507
+
+[[topology.links]]
+endpoints = ["r6_8:eth3", "r5_8:eth2"]
+metric = 1082
+latency = 10.825972101572216
+
+[[topology.links]]
+endpoints = ["r11_8:eth3", "r0_9:eth4"]
+metric = 1006
+latency = 10.065955932414237
+
+[[topology.links]]
+endpoints = ["r4_20:eth3", "r5_20:eth3"]
+metric = 945
+latency = 9.45362453975867
+
+[[topology.links]]
+endpoints = ["r2_3:eth3", "r3_3:eth3"]
+metric = 1168
+latency = 11.684175157455057
+
+[[topology.links]]
+endpoints = ["r0_12:eth3", "r3_11:eth4"]
+latency = 17.27409953104515
+metric = 1727
+
+[[topology.links]]
+endpoints = ["r3_7:eth4", "r2_7:eth3"]
+latency = 12.490430350069941
+metric = 1249
+
+[[topology.links]]
+endpoints = ["r3_2:eth4", "r4_2:eth2"]
+metric = 1033
+latency = 10.334020076804219
+
+[[topology.links]]
+endpoints = ["r11_11:eth3", "r0_12:eth4"]
+metric = 855
+latency = 8.55307285147737
+
+[[topology.links]]
+endpoints = ["r6_21:eth3", "r7_21:eth3"]
+latency = 8.225612425636992
+metric = 822
+
+[[topology.links]]
+endpoints = ["r3_14:eth4", "r2_14:eth3"]
+latency = 11.684175157455044
+metric = 1168
+
+[[topology.links]]
+endpoints = ["r11_21:eth3", "r0_0:eth4"]
+metric = 808
+latency = 8.0892819354317
+
+[[topology.links]]
+endpoints = ["r11_12:eth3", "r0_13:eth4"]
+latency = 9.830686022760647
+metric = 983
+
+[[topology.links]]
+endpoints = ["r7_4:eth3", "r6_4:eth3"]
+latency = 13.085562085858506
+metric = 1308
+
+[[topology.links]]
+endpoints = ["r2_9:eth3", "r1_9:eth3"]
+metric = 981
+latency = 9.816178052182211
+
+[[topology.links]]
+endpoints = ["r9_10:eth3", "r8_10:eth3"]
+latency = 8.147807342626407
+metric = 814
+
+[[topology.links]]
+endpoints = ["r5_2:eth3", "r4_2:eth3"]
+latency = 10.461108244353575
+metric = 1046
+
+[[topology.links]]
+endpoints = ["r0_6:eth4", "r3_5:eth4"]
+latency = 33.63617819729729
+metric = 3363
+
+[[topology.links]]
+endpoints = ["r1_19:eth3", "r2_19:eth3"]
+metric = 1131
+latency = 11.319107063482194
+
+[[topology.links]]
+endpoints = ["r6_9:eth3", "r7_9:eth3"]
+metric = 922
+latency = 9.224073445287628
+
+[[topology.links]]
+endpoints = ["r9_18:eth3", "r10_18:eth3"]
+metric = 1178
+latency = 11.783510450880529
+
+[[topology.links]]
+endpoints = ["r10_13:eth3", "r9_13:eth3"]
+latency = 11.08971988859879
+metric = 1108
+
+[[topology.links]]
+endpoints = ["r1_14:eth3", "r0_14:eth4"]
+latency = 11.452299973271241
+metric = 1145
+
+[[topology.links]]
+endpoints = ["r0_11:eth4", "r3_10:eth4"]
+latency = 16.918204095463217
+metric = 1691
+
+[[topology.links]]
+endpoints = ["r3_21:eth4", "r4_21:eth3"]
+metric = 839
+latency = 8.396630505508059
+
+[[topology.links]]
+endpoints = ["r4_8:eth3", "r5_8:eth3"]
+metric = 1095
+latency = 10.951171621861558
+
+[[topology.links]]
+endpoints = ["r7_16:eth3", "r6_16:eth3"]
+latency = 13.426244475871144
+metric = 1342
+
+[[topology.links]]
+endpoints = ["r0_4:eth4", "r3_3:eth4"]
+latency = 30.011828773565547
+metric = 3001
+
+[[topology.links]]
+endpoints = ["r9_6:eth3", "r8_6:eth3"]
+metric = 1295
+latency = 12.956669299938515
+
+[[topology.links]]
+endpoints = ["r0_1:eth4", "r3_0:eth4"]
+latency = 17.27409953104515
+metric = 1727
+
+[[topology.links]]
+endpoints = ["gw29:eth0", "r2_5:eth4"]
+latency = 10.444673593430853
+
+[topology.links."gw29:eth0"]
+metric = 65534
+
+[topology.links."r2_5:eth4"]
+metric = 65534
+
+[[topology.links]]
+endpoints = ["gw29:eth1", "r6_17:eth4"]
+latency = 10.425859856098638
+
+[topology.links."gw29:eth1"]
+metric = 65534
+
+[topology.links."r6_17:eth4"]
+metric = 1042

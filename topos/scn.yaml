@@ -1,0 +1,239 @@
+version: draft-piraux-space-constellation-code-01
+shells:
+- code: S:780:86.4:288/12/6
+  name: SCN-288
+  link_patterns: []
+gateways:
+- name: gw1
+  latitude_deg: 45.1
+  longitude_deg: -121.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw2
+  latitude_deg: 33.7
+  longitude_deg: -118.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw3
+  latitude_deg: 40.7
+  longitude_deg: -95.8
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw4
+  latitude_deg: 18.9
+  longitude_deg: -99
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw5
+  latitude_deg: 32.5
+  longitude_deg: -80.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw6
+  latitude_deg: 38.5
+  longitude_deg: -77.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw7
+  latitude_deg: 4.1
+  longitude_deg: -74.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw8
+  latitude_deg: -2.8
+  longitude_deg: -44.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw9
+  latitude_deg: -24
+  longitude_deg: -46.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw10
+  latitude_deg: -35.3
+  longitude_deg: -69.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw11
+  latitude_deg: 14.2
+  longitude_deg: -16.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw12
+  latitude_deg: 40
+  longitude_deg: -3.8
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw13
+  latitude_deg: 51.1
+  longitude_deg: 0
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw14
+  latitude_deg: 45.1
+  longitude_deg: 9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw15
+  latitude_deg: 49.5
+  longitude_deg: 8.5
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw16
+  latitude_deg: 6
+  longitude_deg: 3.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw17
+  latitude_deg: -9.6
+  longitude_deg: 15.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw18
+  latitude_deg: -26.8
+  longitude_deg: 27.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw19
+  latitude_deg: -1.3
+  longitude_deg: 36.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw19
+  latitude_deg: 24.7
+  longitude_deg: 51.6
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw20
+  latitude_deg: 31.7
+  longitude_deg: 34.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw21
+  latitude_deg: 59.6
+  longitude_deg: 27.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw23
+  latitude_deg: 51.4
+  longitude_deg: 21
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw24
+  latitude_deg: 39.4
+  longitude_deg: 49.4
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw25
+  latitude_deg: 54.5
+  longitude_deg: 82.9
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw26
+  latitude_deg: 27.9
+  longitude_deg: 77.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw27
+  latitude_deg: 18.8
+  longitude_deg: 73.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw28
+  latitude_deg: 12.5
+  longitude_deg: 77.5
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw29
+  latitude_deg: 22.7
+  longitude_deg: 90
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw30
+  latitude_deg: 0.5
+  longitude_deg: 104.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw31
+  latitude_deg: -6.9
+  longitude_deg: 102.8
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw32
+  latitude_deg: -34.4
+  longitude_deg: 151.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw33
+  latitude_deg: 20.5
+  longitude_deg: 158.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw34
+  latitude_deg: 35.3
+  longitude_deg: 139.3
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw35
+  latitude_deg: 37
+  longitude_deg: 127.1
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw36
+  latitude_deg: 39.6
+  longitude_deg: 116.2
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw37
+  latitude_deg: 30.4
+  longitude_deg: 121.7
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw38
+  latitude_deg: 22.2
+  longitude_deg: 114
+  altitude_m: 0
+  min_elevation_deg: 10
+
+- name: gw39
+  latitude_deg: 30.6
+  longitude_deg: 104.1
+  altitude_m: 0
+  min_elevation_deg: 10

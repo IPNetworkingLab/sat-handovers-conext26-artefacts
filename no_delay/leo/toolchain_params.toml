@@ -1,0 +1,15 @@
+constellation_code = "./topos/leo.yaml"
+
+[handover_filter]
+file = "./kepler/leo.json"
+max_delay = 0
+max_sat_per_gw = 9
+max_gw_per_sat = 4
+
+[[simulations]]
+method = "Nested"
+fib_check = true
+
+[[simulations]]
+method = "Sequential"
+fib_check = true
