@@ -1,0 +1,16 @@
+constellation_code = "./topos/starlink.yaml"
+
+[handover_filter]
+file = "./kepler/starlink.json"
+new_format = true
+max_delay = 0
+max_sat_per_gw = 24
+max_gw_per_sat = 4
+
+[[simulations]]
+method = "Nested"
+fib_check = false
+
+[[simulations]]
+method = "Sequential"
+fib_check = false
